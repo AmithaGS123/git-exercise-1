@@ -1,3 +1,3 @@
 echo "" >> app.py
-   echo "def goodbye():" >> app.py
-   echo "    print('Goodbye!')" >> app.py
+   echo "def farewell():" >> app.py
+   echo "    print('Farewell!')" >> app.py
