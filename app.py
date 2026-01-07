@@ -1,2 +1,3 @@
-echo "def hello_world():" 
-echo "print('Hello, World!')"
+echo "" >> app.py
+   echo "def goodbye():" >> app.py
+   echo "    print('Goodbye!')" >> app.py
